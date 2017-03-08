@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PinionViewTool::Renderer.copyright 'Stephanie Pinion', 'All rights reserved'
+```
 
 ## Development
 
